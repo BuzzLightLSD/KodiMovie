@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Infinity
+#EXTINF:-1 group-title="All",Test
+https://pixeldra.in/api/file/LoiY769N?download
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swag-et00401912-1727774376.jpg" group-title="All",Swag (Telugu)
+https://cdn.boostpng.com/SWAG_(2024)_Telugu_1080p.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" group-title="All",Infinity
 http://188.210.209.2/EDI/Movies/Avengers.Infinity.War.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
-#EXTINF:-1, Do Patti
-#EXTIMG: https://upload.wikimedia.org/wikipedia/en/7/7d/Do_Patti_poster.jpg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Do_Patti_poster.jpg" group-title="All",Do Patti
 https://cdn.boostpng.com/Do_Patti_(2024)_1080p_Tel_Tam_Hin.mkv
