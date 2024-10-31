@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Vettaiyan_poster.jpg" group-title="Movies",Vettaiyan(Telugu)
-https://kps-stream-bot-002-6f44b1b21b39.herokuapp.com/dl/6723a167ba13ebd4bfe1b3aa
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swag-et00401912-1727774376.jpg" group-title="Movies",Swag(Telugu - ESub)
 https://cdn.boostpng.com/SWAG_(2024)_Telugu_1080p.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Do_Patti_poster.jpg" group-title="Movies",Do Patti(Multi - ESub)
