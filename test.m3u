@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Telugu",ETV HD
 https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/00ceacc2-9ee7-4fcb-bffc-ee405276cae2/3.m3u8
-#EXTINF:-1 tvg-logo="https://neeplay.com/wp-content/uploads/2024/01/etvcinemahd.webp" group-title="Telugu",ETV Cinema HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/ETV_Cinema_HD.jpg" group-title="Telugu",ETV Cinema HD
 https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_CINEMA_H264/cbe228aa-01f2-4498-ba5e-3e9d189b1199/3.m3u8
